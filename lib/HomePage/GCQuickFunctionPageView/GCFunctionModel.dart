@@ -1,0 +1,1 @@
+import 'package:flutter/foundation.dart';class GCFunctionModel{  String functionName;  String functionIcon;  Key? key;  GCFunctionModel({this.key, required this.functionIcon,required this.functionName});}
